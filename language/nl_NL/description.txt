@@ -1,0 +1,1 @@
+Controleert de database-integriteit. Ga na een installatie naar: Administratie:Beheer > Hulpmiddelen:Onderhoud:Controleer database-integriteit.

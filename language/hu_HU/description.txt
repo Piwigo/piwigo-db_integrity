@@ -1,0 +1,1 @@
+Ellenőrzi az adatbázis épségét. Telepítés után a hozzáférés útvonala: Adminisztráció / Eszközök / Karbantartás: "Adatbázis épségének ellenőrzése".

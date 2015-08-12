@@ -1,0 +1,1 @@
+Kontrollerar databasintegritet. Efter installation, gå till Administration/Verktyg/Underhåll: "Konstrollera databasintegritet"

@@ -1,0 +1,1 @@
+Preveri integriteto podatkovne baze. Po namestitvi pojdite na Administracija -> Orodja -> Vzdrževanje: "Preveri integriteto podatkovne baze"

@@ -1,0 +1,1 @@
+Kontrolas la integrecon de la datumbazo. Post instalado, iru al Administrado /Iloj/Funkciteno: "Kontroli la integrecon de la datumbazo".

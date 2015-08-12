@@ -1,0 +1,2 @@
+Checks database integrity. After install go to Administration /Tools/Maintenance: "Check database integrity".
+Поверка целостности базы данных. После установки выполните переход в раздел Администрирование -> Инструменты -> Обслуживание: "Проверить целостность базы данных"

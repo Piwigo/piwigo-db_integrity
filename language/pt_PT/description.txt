@@ -1,0 +1,1 @@
+Verificar a integridade da base de dados. Depois de instalar vá para Administração / Ferramentas / Manutenção: "Verificar a integridade da base de dados".

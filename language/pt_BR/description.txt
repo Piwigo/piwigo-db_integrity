@@ -1,0 +1,1 @@
+Verifica a integridade de dados. Depois de instalar vá para Administração/Ferramentas/Manutenção: "Verifique a integridade do banco de dados".

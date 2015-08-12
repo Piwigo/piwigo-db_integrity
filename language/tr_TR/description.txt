@@ -1,0 +1,1 @@
+Veri tabanı bütünlüğünü kontrol eder.Yükleme sonrası buradan: Yönetim > Araçlar > Bakım: "Veri tabanı bütünlüğünü kontrol et".

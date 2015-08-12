@@ -1,0 +1,3 @@
+Prüft die Integrität der Datenbank. Nach der Installation kann das Plugin unter Administration/Wewrkzeug/Wartung: "Prüfe Dantenbank-Integrität".
+
+Checks database integrity. After install go to Administration /Tools/Maintenance: "Check database integrity".

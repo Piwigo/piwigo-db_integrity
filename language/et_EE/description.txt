@@ -1,0 +1,2 @@
+Kontrolli andmebaasi terviklikkust. Pärast installeerimist mine Administatsioon ->Tööriistad/Hooldus: "Kontrolli andmebaasi terviklikkust"
+

@@ -1,0 +1,1 @@
+Kontrola integrity databázy. Po inštalácii choďte do Administrácia/Nástroje/Maintenance: "Skontrolovať integritu databázy". 

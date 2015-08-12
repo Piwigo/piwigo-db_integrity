@@ -1,0 +1,1 @@
+RV DB Integrity Плъгин - Проверява цялостта на базата данни. След инстариране идете на Administration /Tools/Maintenance: "Check database integrity".

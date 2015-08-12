@@ -1,0 +1,1 @@
+Kontrollerer databaseintegritet. Gå efter installeringen til Administration/Værktøjer/Vedligeholdelse: "Kontroller databaseintegritet".

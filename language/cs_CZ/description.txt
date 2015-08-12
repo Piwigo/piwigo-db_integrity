@@ -1,0 +1,1 @@
+Zkontroluje integritu databáze. Po instalaci přejděte do Administrace /Tools/Maintenance: "Kontrola integrity databáze".

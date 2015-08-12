@@ -1,0 +1,1 @@
+Controlli integrità del database. Dopo l'installazione andare in Amministrazione / Tools / Manutenzione : "Check database integrity".

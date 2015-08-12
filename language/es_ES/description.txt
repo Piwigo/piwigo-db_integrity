@@ -1,0 +1,1 @@
+Comprobación de la base de datos. Después de la instalación ir a administración / herramientas / Mantenimiento : "Comprobar la integridad de la base de datos".

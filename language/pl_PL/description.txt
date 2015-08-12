@@ -1,0 +1,1 @@
+Sprawdza integralność bazy danych. Po zainstalowaniu przejdź do Administracja/Narzędzia/Konserwacja: "Sprawdź integralność bazy"

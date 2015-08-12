@@ -1,0 +1,1 @@
+Sjekker database integritet. Etter installering gå til Administrasjon /Verktøy /vedlikehold: "Sjekk database integritet".
