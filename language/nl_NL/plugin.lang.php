@@ -20,11 +20,10 @@
 // | Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, |
 // | USA.                                                                  |
 // +-----------------------------------------------------------------------+
-$lang['#images(id,storage_category_id) in #image_category'] = '#images(id,storage_category_id) in #image_category';
+$lang['#images(id,storage_category_id) in #image_category'] = '#foto\'s(id,opslag_categorie_id) in #foto\'s_categorie';
 $lang['Check database integrity'] = 'Controleer database-integriteit';
 $lang['Passed'] = 'Geslaagd';
 $lang['Pemalinks'] = 'Permalinks';
 $lang['Result'] = 'Resultaat';
 $lang['Test'] = 'Test';
 $lang['Uploadable virtual cats'] = 'Uploadbare virtuele categorieën';
-?>
