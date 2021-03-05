@@ -25,3 +25,5 @@ $lang['Passed'] = 'Passat';
 $lang['Pemalinks'] = 'Enllaç permanent';
 $lang['Result'] = 'Resultat';
 $lang['Test'] = 'Prova-ho';
+$lang['Uploadable virtual cats'] = 'Es poden carregar categories virtuals';
+$lang['#images(id,storage_category_id) in #image_category'] = '#images(id,storage_category_id) a #image_category';
