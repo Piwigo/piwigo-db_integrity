@@ -5,6 +5,7 @@ Description: Checks database integrity. After install go to Administration /Tool
 Plugin URI: http://piwigo.org/ext/extension_view.php?eid=179
 Author: rvelices
 Author URI: http://www.modusoptimus.com
+Has Settings: false
 */
 
 define('RVDI_DIR' , basename(dirname(__FILE__)));
@@ -18,7 +19,8 @@ function rvint_get_admin_advanced_features_links($advanced_features)
   load_language('plugin.lang', RVDI_PATH);
   $advanced_features[] = array(
       'CAPTION' => l10n('Check database integrity'),
-      'URL' => get_admin_plugin_menu_link(dirname(__FILE__).'/check_db.php')
+      'URL' => get_admin_plugin_menu_link(dirname(__FILE__).'/check_db.php'),
+      'ICON' => 'icon-database',
     );
   return $advanced_features;
 }
