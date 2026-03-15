@@ -1,0 +1,1 @@
+Comprova la integritat de la base de dades. Després d'instal·lar-lo, aneu a l'Administració, /Eines/Manteniment: "Comprova la integritat de la base de dades".
